@@ -1,6 +1,6 @@
 # dotfiles-m1-mac
 
- curl -L raw.github.com/kajirikajiri/dotfiles-m1-mac/main/setup.sh | bash
+ curl -L raw.githubusercontent.com/kajirikajiri/dotfiles-m1-mac/master/setup.sh | bash
 
 # Tasks
 

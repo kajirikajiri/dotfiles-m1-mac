@@ -37,6 +37,11 @@ done
 
 brew install zsh vim ghq fzf gh yarn tig nvm rbenv zsh-autosuggestions zplug
 
+# setup node
+nvm install node
+nvm use node
+
+# install commitizen, commitizen-emoji
 npm install -g commitizen
 npm install -g cz-emoji
 
